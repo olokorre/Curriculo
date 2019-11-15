@@ -1,0 +1,11 @@
+* {
+	font-family: Ubuntu;
+	text-align: center;
+}
+div {
+	border: solid;
+	border-width: 20px;
+}
+a {
+	color: black;
+}
